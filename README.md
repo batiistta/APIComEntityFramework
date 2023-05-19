@@ -1,13 +1,13 @@
 ## APIComEntityFramework
 
-## Desafio de projeto
+## 🚀 Desafio de projeto
 Para este desafio, utilizei conhecimentos adquiridos no curso de Introdução a APIs e Entity Framework com C# da DIO.
 
-## Contexto
+## 📋 Contexto
 Você foi contratado para construir uma API, que terá as funções de cadastro, alteração, busca por nome/Id e remoção de contatos. Será preciso que use
 um banco de dados da sua prefência.
 
-## Proposta
+## ⚙️ Proposta
 Para esse projeto foi construida uma classe chamada "Contato".
 
 A classe contém quatro variáveis, sendo:
