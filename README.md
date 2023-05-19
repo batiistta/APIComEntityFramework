@@ -23,6 +23,7 @@ A classe contém quatro variáveis, sendo:
 Feito isso foi criado o context para para gerenciar a interação com o banco de dados assim como a string de conexão necessária assim como os pacotes
 via nuget abaixo:
 **Microsoft.EntityFrameworkCore.Design**
+
 **Microsoft.EntityFrameworkCore.SqlServer**(banco de dados de sua preferência)
 
 Antes de inicar crie um database para guardar esses dados e lembre-se de colocá-lo na string de conexão e execute os comandos para configurar o Entity
