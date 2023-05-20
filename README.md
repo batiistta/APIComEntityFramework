@@ -1,4 +1,4 @@
-# APIComEntityFramework
+# API Desenvolvida Com Entity Framework
 
 ## 🚀 Desafio de projeto
 Para este desafio, utilizei conhecimentos adquiridos no curso de Introdução a APIs e Entity Framework com C# da DIO.
